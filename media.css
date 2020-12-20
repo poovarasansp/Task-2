@@ -1,10 +1,4 @@
 @media screen and (max-width:1024px){
-    .other-details{
-        width: 95%;
-        height: 220px;
-    }
-}
-@media screen and (max-width:1024px){
     .last{
         margin-left: 50px;
     }
@@ -42,10 +36,22 @@
     }.main{
         margin-left: 20px;
     }
+    .footer{
+        margin-bottom: 1rem;
+        }
 }
 @media screen and (max-width:320px){
     input{
         width: 14rem;
         height: 24px;
     }
+    .footer{
+        margin: 1rem;
+        }
+}
+@media screen and (max-width:375px){
+    .footer{
+        margin-right: 2.5rem;
+        margin-bottom: 1rem;
+        }
 }
