@@ -1,0 +1,51 @@
+@media screen and (max-width:1024px){
+    .other-details{
+        width: 95%;
+        height: 220px;
+    }
+}
+@media screen and (max-width:1024px){
+    .last{
+        margin-left: 50px;
+    }
+    .other{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .other2{
+        margin: 0;
+    }
+    .other-details{
+        width: 95%;
+        height: 280px;
+    }
+}
+@media screen and (max-width:425px){
+    .names{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .personal{
+        width: 95%;
+        height: 360px;
+    }
+    .last{
+        margin: 0;
+    }
+    .academic{
+        width: 95%;
+        height: 360px;
+    }
+    .other-details{
+        width: 95%;
+        height: 360px;
+    }.main{
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width:320px){
+    input{
+        width: 14rem;
+        height: 24px;
+    }
+}
