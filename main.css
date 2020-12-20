@@ -1,0 +1,33 @@
+*{
+    background-color: white;
+}
+.main{
+    margin-left: 20px;
+}
+.heads{
+    font-size: 22px;
+    font-weight: bold;
+}
+form,p{
+    font-family: 'calibri';
+}
+input{
+    width: 17rem;
+    height: 24px;
+    border-radius: 5px;
+    margin: .5rem 0;
+    border: 2px solid rgb(107, 107, 107);
+    padding: 3px;
+}
+div,.names{
+    font-size: 18px;
+}
+.names,.other{
+    display: flex;
+}
+.other2{
+    margin: 0 0 20px 150px;
+}
+.last{
+    margin-left: 100px;
+}
